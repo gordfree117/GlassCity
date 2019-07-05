@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#header, #footer {
+    background-color: #2b5496;
+    color: white;
+}
+#main_logo{
+    height: 200px;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
